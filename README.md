@@ -54,3 +54,60 @@ The *Train Search Platform* is a web-based application that allows users to sear
 
 
 ---
+
+
+## 🌍 Live Demo  
+🚀 **[Click here to visit the live site](https://train-ticket-rvn.vercel.app/)**
+
+
+
+## 🛠 Tech Stack
+
+- *Frontend*: React.js 
+- *Backend*: Node.js, Express.js
+- *Database*: MongoDB 
+- *Real-Time*: Server-Sent Events (SSE) 
+- *Optimization*: Database Indexing
+
+
+
+## 🚀 Installation & Setup
+
+### 1️⃣ Clone the Repository
+sh
+git clone https://github.com/zohadurrjafri/TrainTicket.git
+cd Train-Ticket
+  
+
+### 2️⃣ Install Dependencies
+ 
+
+#### For Backend:
+sh
+cd Backend
+npm install
+npm run dev
+ 
+
+#### For Frontend:
+sh
+cd Frontend
+npm install
+npm run dev
+
+
+
+## 📌 Usage
+1. Enter the source and destination stations.
+2. Click Search to find available routes.
+3. View the direct and multi-train options.
+4. Check seat availability and estimated travel time.
+5. Choose the best-suited option for your journey.
+
+
+
+## 🤝 Contributing
+1. Fork the repository.
+2. Create a new branch (feature-branch).
+3. Make your changes and commit them.
+4. Push the branch and create a Pull Request.
